@@ -19,3 +19,9 @@ body {
   text-align: center;
   padding: 2em;
 }
+
+ul {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: auto auto;
+}
