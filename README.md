@@ -1,8 +1,8 @@
 # grid
 
-Practice with CSS Grid!
+# Practice with CSS Grid!
 
-Rows / Columns / Yay
+## Rows / Columns / Yay
 
-* Built with vanilla HTML & CSS 
+## Built with vanilla HTML & CSS 
 
