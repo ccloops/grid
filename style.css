@@ -5,10 +5,10 @@ body {
 .container {
   display: grid;
   grid-template-columns: auto auto;
-  grid-template-columns: repeat(5, 100px);
-  grid-template-rows: 200px 300px;
+  grid-template-columns: repeat(5, 100px); 
+  grid-template-rows: 200px 300px; 
   grid-gap: 20px;
-  border: 2px solid var(--yellow);
+  border: 2px solid var(--yellow); 
   grid-template-columns: 200px 200px 1fr;
 }
 
@@ -33,8 +33,9 @@ ul {
 li {
   list-style-type: none;
   background-color: darkcyan;
-  color: goldenrod;
+  color: cornsilk;
   text-align: center;
   margin: 0 auto;
   padding: 2em;
+  border: 2px solid black;
 }

@@ -6,3 +6,4 @@
 
 ## Built with vanilla HTML & CSS 
 
+Single Page App
