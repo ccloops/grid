@@ -4,12 +4,12 @@ body {
 
 .container {
   display: grid;
-  grid-template-columns: auto auto;
-  grid-template-columns: repeat(5, 100px); 
-  grid-template-rows: 200px 300px; 
+  /* grid-template-columns: auto auto; */
+  /* grid-template-columns: repeat(5, 100px);  */
+  /* grid-template-rows: 200px 300px;  */
   grid-gap: 20px;
-  border: 2px solid var(--yellow); 
-  grid-template-columns: 200px 200px 1fr;
+  /* border: 2px solid var(--yellow);  */
+  /* grid-template-columns: 200px 200px 1fr; */
 }
 
 .item {
@@ -17,10 +17,10 @@ body {
   color: cornSilk;
   border: 2px solid black;
   text-align: center;
-  padding: 2em;
+  /* padding: 2em; */
 }
 
-h1 {
+/* h1 {
   text-align: center;
 }
 
@@ -38,4 +38,4 @@ li {
   margin: 0 auto;
   padding: 2em;
   border: 2px solid black;
-}
+} */
