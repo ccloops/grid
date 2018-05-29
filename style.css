@@ -20,11 +20,12 @@ body {
   /* padding: 2em; */
 }
 
-/* h1 {
+h1 {
   text-align: center;
+  color: cornsilk;
 }
 
-ul {
+/* ul {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: 6em 6em 6em 6em;
